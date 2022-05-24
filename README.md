@@ -1,2 +1,3 @@
-# DSA
-Coding Problems and Solutions
+# PYTHON COOKBOOK
+
+### Pyhton hacking cookbook
