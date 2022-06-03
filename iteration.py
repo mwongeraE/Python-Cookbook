@@ -34,4 +34,4 @@ def main():
                 checkVulns(banner)
 
 if __name__ == "__main__":
-    main()
+    main() 
