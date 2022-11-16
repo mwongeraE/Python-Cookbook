@@ -1,5 +1,7 @@
 # PYTHON COOKBOOK
 
-### Pyhton hacking cookbook
+### Python hacking cookbook
 
 ### Violent python - 2013
+
+### Code snippets and functions
